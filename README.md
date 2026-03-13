@@ -33,10 +33,5 @@ Practice arithmetic in a fun way!
 
 ---
 
-## Author
-Mohamed Ahmed
-
----
-
 ## Language
 C++
